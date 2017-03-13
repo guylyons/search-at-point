@@ -1,9 +1,10 @@
 {
   "name": "search-at-point",
   "main": "./lib/search-at-point",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A short description of your package",
-  "keywords": [],
+  "keywords": ["search", "point", "lookup", "google"],
+  "author": "Guy Lyons",
   "activationCommands": {
     "atom-workspace": "search-at-point:toggle"
   },
