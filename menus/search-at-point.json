@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle search-at-point",
+        "command": "search-at-point:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "search-at-point",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "search-at-point:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
