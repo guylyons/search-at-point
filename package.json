@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "search-at-point:toggle"
   },
-  "repository": "https://github.com/atom/search-at-point",
+  "repository": "https://github.com/guylyons/search-at-point",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
