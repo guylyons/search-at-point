@@ -4,6 +4,10 @@
       {
         "label": "Toggle search-at-point",
         "command": "search-at-point:toggle"
+      },
+      {
+        "label": "Search at Point",
+        "command": "search-at-point:search"
       }
     ]
   },
@@ -15,8 +19,8 @@
           "label": "search-at-point",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "search-at-point:toggle"
+              "label": "Search at Point",
+              "command": "search-at-point:search"
             }
           ]
         }
