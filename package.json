@@ -2,7 +2,7 @@
   "name": "search-at-point",
   "main": "./lib/search-at-point",
   "version": "0.1.1",
-  "description": "Search the Google/Stackoverflow at point or by selection",
+  "description": "Search Google/DuckDuckGo/Stackoverflow at point or by selection",
   "keywords": ["search", "point", "lookup", "google", "stackoverflow"],
   "author": "Guy Lyons",
   "activationCommands": {
