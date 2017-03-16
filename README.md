@@ -1,12 +1,11 @@
-# Search at Point
+# Search at Point ☝️️
 
 ## Synopsis
 
 Search at Point gives you the ability to search at point or at selection in
 your favorite search engines.
 
-![Search at Point Screenshot](https://raw.githubusercontent.com/guylyons/search-at-point/master/assets/screen.png)
-
+![Search at Point Screenshot](https://raw.githubusercontent.com/guylyons/search-at-point/master/assets/screen.gif)
 
 ## Supported search engines
 
