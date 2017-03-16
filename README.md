@@ -12,6 +12,7 @@ your favorite search engines.
 - Google
 - DuckDuckGo
 - StackOverflow
+- MDN
 
 ## License
 
