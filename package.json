@@ -1,9 +1,15 @@
 {
   "name": "search-at-point",
   "main": "./lib/search-at-point",
-  "version": "0.1.2",
-  "description": "Search Google/DuckDuckGo/Stackoverflow at point or by selection",
-  "keywords": ["search", "point", "lookup", "google", "stackoverflow"],
+  "version": "0.1.3",
+  "description": "Search multiple search engines at point or by selection",
+  "keywords": [
+    "search",
+    "point",
+    "lookup",
+    "google",
+    "stackoverflow"
+  ],
   "author": "Guy Lyons",
   "activationCommands": {
     "atom-workspace": "search-at-point:search"
@@ -12,8 +18,5 @@
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  },
-  "dependencies": {
-    "opn": "^4.0.2"
   }
 }
