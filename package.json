@@ -3,13 +3,7 @@
   "main": "./lib/search-at-point",
   "version": "0.1.3",
   "description": "Search multiple search engines at point or by selection",
-  "keywords": [
-    "search",
-    "point",
-    "lookup",
-    "google",
-    "stackoverflow"
-  ],
+  "keywords": ["search", "point", "lookup", "google", "stackoverflow", "mdn"],
   "author": "Guy Lyons",
   "activationCommands": {
     "atom-workspace": "search-at-point:search"

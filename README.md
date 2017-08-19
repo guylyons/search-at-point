@@ -13,6 +13,7 @@ your favorite search engines.
 - DuckDuckGo
 - StackOverflow
 - MDN
+- Codrops
 
 ## License
 

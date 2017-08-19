@@ -11,3 +11,7 @@
 ## 0.1.3 - Remove deps
 * removed opn
 * use shell instead
+
+## 0.1.4 - Clean
+* removed views that weren't being used
+* added notification of search term
