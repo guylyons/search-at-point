@@ -7,3 +7,7 @@
 ## 0.1.2 - Refactoring
 * Segment functions into functions.js
 * added searchFor func
+
+## 0.1.3 - Remove deps
+* removed opn
+* use shell instead
