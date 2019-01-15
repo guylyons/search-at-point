@@ -1,5 +1,8 @@
 # Search at Point ☝️️
 
+## Note
+I no longer maintain this plugin, but had a lot of fun making it. Feel free to fork and collaborate. Planning to port this over to VS Code.
+
 ## Synopsis
 
 Search at Point gives you the ability to search at point or at selection in
